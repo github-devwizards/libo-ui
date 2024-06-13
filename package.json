@@ -1,0 +1,23 @@
+{
+  "name": "libo-ui",
+  "version": "1.0.0",
+  "description": "The Next Gen UI Components",
+  "main": "backend/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "ts-node backend/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github-devwizards/libo-ui.git"
+  },
+  "author": "Dev-Wizards",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/github-devwizards/libo-ui/issues"
+  },
+  "homepage": "https://github.com/github-devwizards/libo-ui#readme",
+  "devDependencies": {
+    "prettier": "^3.3.2"
+  }
+}
