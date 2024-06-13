@@ -4,8 +4,8 @@
 
 Inside The root dir .
 
-`npm install`
+`npm run dev`
 
-After that go to frontend directory.
+If you only want to build
 
-`npm install`
+`npm run build`

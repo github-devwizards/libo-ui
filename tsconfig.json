@@ -1,9 +1,9 @@
 {
   "compilerOptions": {
     "target": "es2016",
-    "module": "commonjs",
+    "module": "ES6",
     "rootDir": "./backend",
-    "outDir": "./dist/backend",
+    "outDir": "./backend/dist",
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "strict": true,
